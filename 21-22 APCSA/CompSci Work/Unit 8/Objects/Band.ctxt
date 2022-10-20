@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Band
+comment1.params=name\ members\ albums
+comment1.target=Band(java.lang.String,\ java.lang.String[],\ int)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=other
+comment3.target=void\ compareTo(Band)
+numComments=4

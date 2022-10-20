@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Notes_1_18_22
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=n
+comment2.target=int\ fibonacci(int)
+comment3.params=arr\ index
+comment3.target=void\ printArray(java.lang.String[],\ int)
+comment4.params=target\ current
+comment4.target=boolean\ isPrime(int,\ int)
+comment5.params=target
+comment5.target=boolean\ primeHelper(int)
+numComments=6

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Methods
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=animal
+comment2.target=boolean\ isCarnivore(java.lang.String)
+comment3.params=first\ second
+comment3.target=double\ geoMean(double,\ double)
+comment4.params=x\ y
+comment4.target=java.lang.String\ mysteryMethod(int,\ int)
+numComments=5

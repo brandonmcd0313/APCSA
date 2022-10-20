@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Wizard
+comment1.params=name\ type\ money\ dialogue\ hp\ magicpower
+comment1.target=Wizard(java.lang.String,\ java.lang.String,\ int,\ java.lang.String[],\ int,\ int)
+comment2.params=
+comment2.target=void\ heal()
+numComments=3

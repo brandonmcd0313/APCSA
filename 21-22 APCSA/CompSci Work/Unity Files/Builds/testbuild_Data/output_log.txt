@@ -1,0 +1,2836 @@
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 530 (ID=0x1912)
+    Vendor:   Intel
+    VRAM:     4198 MB
+    Driver:   26.20.100.7757
+Begin MonoManager ReloadAssembly
+Platform assembly: F:\CompSci Work\Unity Files\Builds\testbuild_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\CompSci Work\Unity Files\Builds\testbuild_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\CompSci Work\Unity Files\Builds\testbuild_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading F:\CompSci Work\Unity Files\Builds\testbuild_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: F:\CompSci Work\Unity Files\Builds\testbuild_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading F:\CompSci Work\Unity Files\Builds\testbuild_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: F:\CompSci Work\Unity Files\Builds\testbuild_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading F:\CompSci Work\Unity Files\Builds\testbuild_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: F:\CompSci Work\Unity Files\Builds\testbuild_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading F:\CompSci Work\Unity Files\Builds\testbuild_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: F:\CompSci Work\Unity Files\Builds\testbuild_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading F:\CompSci Work\Unity Files\Builds\testbuild_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: F:\CompSci Work\Unity Files\Builds\testbuild_Data\Managed\System.dll (this message is harmless)
+Platform assembly: F:\CompSci Work\Unity Files\Builds\testbuild_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.579 seconds
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.182000 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 3e34 -> priority: 1 
+  Thread -> id: 3e38 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 313.155700 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 316.
+Total: 0.257200 ms (FindLiveObjects: 0.037300 ms CreateObjectMapping: 0.009600 ms MarkObjects: 0.197300 ms  DeleteObjects: 0.012200 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 444.103600 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 9847.
+Total: 1.535000 ms (FindLiveObjects: 0.627300 ms CreateObjectMapping: 0.104800 ms MarkObjects: 0.778900 ms  DeleteObjects: 0.023400 ms)
+
+teleported from TeleporterZ
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+teleported from TeleporterA
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+teleported from TeleporterZ
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+teleported from TeleporterA
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+teleported from TeleporterZ
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+found it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+begining release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnMonster.startRel () [0x00000] in <filename unknown>:0 
+  at DoorDestroyer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+

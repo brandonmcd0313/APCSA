@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=NPC
+comment1.params=name\ type\ money\ dialogue
+comment1.target=NPC(java.lang.String,\ java.lang.String,\ int,\ java.lang.String[])
+comment2.params=monetaryGain
+comment2.target=void\ harvest(int)
+numComments=3

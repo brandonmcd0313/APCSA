@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: bca2ad3903fd4144ea0f457af3464ee6
+timeCreated: 1639668511
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: funny sport
+  fontNames:
+  - funny sport
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

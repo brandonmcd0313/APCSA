@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=HurricaneTester
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=int\ beginYear()
+comment3.params=
+comment3.target=int\ endYear()
+comment4.params=beginYear\ endYear\ years
+comment4.target=boolean\ dataCheck(int,\ int,\ int[])
+numComments=5

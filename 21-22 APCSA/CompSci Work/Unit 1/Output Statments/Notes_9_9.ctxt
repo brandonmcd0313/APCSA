@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Notes_9_9
+comment0.text=\r\n\ MULTI-LINE\ or\ BLOCK\ COMMENTS\ start\ with\ a\ slash-star\ and\ go\ until\r\n\ you\ end\ them\ with\ a\ star-slash\r\n\ Block\ comments\ are\ often\ used\ for\ DUMMYING\ OUT\ (temporaily\r\n\ disabling)\ sections\ of\ code.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

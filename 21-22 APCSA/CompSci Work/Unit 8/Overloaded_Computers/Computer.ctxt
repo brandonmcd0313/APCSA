@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Computer
+comment1.params=model\ comments\ buildYear\ value
+comment1.target=Computer(java.lang.String,\ java.lang.String,\ int,\ double)
+comment2.params=model
+comment2.target=Computer(java.lang.String)
+comment3.params=model\ value
+comment3.target=Computer(java.lang.String,\ double)
+comment4.params=
+comment4.target=void\ compareTo()
+comment5.params=buildYear
+comment5.target=void\ compareTo(int)
+comment6.params=value
+comment6.target=void\ compareTo(double)
+comment7.params=other
+comment7.target=void\ compareTo(Computer)
+numComments=8

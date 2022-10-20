@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=FRQ6
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=year
+comment2.target=int\ daysInYear(int)
+numComments=3

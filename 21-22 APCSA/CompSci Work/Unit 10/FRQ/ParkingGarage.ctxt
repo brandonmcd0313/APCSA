@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=ParkingGarage
+comment1.params=maxCappacity\ fee
+comment1.target=ParkingGarage(int,\ double)
+comment2.params=num
+comment2.target=void\ addCars(int)
+comment3.params=num
+comment3.target=void\ deleteCars(int)
+comment4.params=
+comment4.target=double\ calcSales()
+numComments=5

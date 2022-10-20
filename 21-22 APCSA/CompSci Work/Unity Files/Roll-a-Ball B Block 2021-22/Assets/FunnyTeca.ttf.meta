@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 7ef7228d6f697e942a267cc53a4bcb4f
+timeCreated: 1639668774
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: FunnyTeca
+  fontNames:
+  - FunnyTeca
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

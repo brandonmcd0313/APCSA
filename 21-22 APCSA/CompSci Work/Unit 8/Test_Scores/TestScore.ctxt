@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=TestScore
+comment1.params=name\ score
+comment1.target=TestScore(java.lang.String,\ double)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=double\ getScore()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=other
+comment5.target=java.lang.String\ compareTo(TestScore)
+numComments=6

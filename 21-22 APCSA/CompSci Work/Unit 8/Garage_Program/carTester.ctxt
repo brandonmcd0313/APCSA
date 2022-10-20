@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=carTester
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=colours
+comment2.target=java.lang.String\ randomColour(java.lang.String[])
+numComments=3

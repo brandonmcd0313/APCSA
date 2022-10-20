@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Fighter
+comment1.params=name\ type\ money\ dialogue\ hp\ strength
+comment1.target=Fighter(java.lang.String,\ java.lang.String,\ int,\ java.lang.String[],\ int,\ int)
+comment2.params=
+comment2.target=void\ swing()
+numComments=3

@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=FRQ1_2019
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=year
+comment2.target=boolean\ isLeapYear(int)
+comment2.text=Returns\ true\ if\ year\ is\ a\ leap\ year\ and\ false\ otherwise.
+comment3.params=year1\ year2
+comment3.target=int\ numberOfLeapYears(int,\ int)
+comment3.text=\ Returns\ the\ number\ of\ leap\ years\ between\ year1\ and\ year2,\ inclusive.\r\n\ Precondition\:\ 0\ <\=\ year1\ <\=\ year2\r\n
+comment4.params=year
+comment4.target=int\ firstDayOfYear(int)
+comment4.text=\ Returns\ the\ value\ representing\ the\ day\ of\ the\ week\ for\ the\ first\ day\ of\ year,\r\n\ where\ 0\ denotes\ Sunday,\ 1\ denotes\ Monday,\ ...,\ and\ 6\ denotes\ Saturday.\r\n
+comment5.params=month\ day\ year
+comment5.target=int\ dayOfYear(int,\ int,\ int)
+comment5.text=\ Returns\ n,\ where\ month,\ day,\ and\ year\ specify\ the\ nth\ day\ of\ the\ year.\r\n\ Returns\ 1\ for\ January\ 1\ (month\ \=\ 1,\ day\ \=\ 1)\ of\ any\ year.\r\n\ Precondition\:\ The\ date\ represented\ by\ month,\ day,\ year\ is\ a\ valid\ date.\r\n
+comment6.params=month\ day\ year
+comment6.target=int\ dayOfWeek(int,\ int,\ int)
+comment6.text=\ Returns\ the\ value\ representing\ the\ day\ of\ the\ week\ for\ the\ given\ date\r\n\ (month,\ day,\ year),\ where\ 0\ denotes\ Sunday,\ 1\ denotes\ Monday,\ ...,\r\n\ and\ 6\ denotes\ Saturday.\r\n\ Precondition\:\ The\ date\ represented\ by\ month,\ day,\ year\ is\ a\ valid\ date.\r\n
+numComments=7

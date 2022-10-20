@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Meal
+comment1.params=name\ calories\ items
+comment1.target=Meal(java.lang.String,\ int,\ java.lang.String[])
+comment2.params=
+comment2.target=void\ print()
+numComments=3

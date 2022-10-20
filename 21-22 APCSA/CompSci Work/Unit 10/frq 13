@@ -1,0 +1,37 @@
+//Brandon McDonald
+//FRQ 13
+
+//takes in a string, returns a double
+
+public double categoryAverage(String category)
+{
+	int count = 0;
+	double total = 0;
+	
+	//find out which entries in ageCategory array match category
+	for(int i = 0; i < ageCategory.length; i++)
+	{
+		for(int j = 0; j < ageCategory[0].length; j++)
+		{
+			if(ageCategory[i][j].equals(category)
+			{
+				count++;
+				//add the indivual age at the current i and j
+				total += indivualAges[i][j];
+			}
+		}
+	}
+	//add them to a running total and keep track of how many
+
+	//calculate the average
+	double average = 0;
+	average = total/count;
+	
+	//if count is 0 return -1
+	if(count == 0)
+	{
+		return -1;
+	}
+	
+	return average;
+}	

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=FRQ4_2018
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=arr2D\ c
+comment2.target=int[]\ getColumn(int[][],\ int)
+comment2.text=\ Returns\ an\ array\ containing\ the\ elements\ of\ column\ c\ of\ arr2D\ in\ the\ same\ order\ as\r\n\ they\ appear\ in\ arr2D.\r\n\ Precondition\:\ c\ is\ a\ valid\ column\ index\ in\ arr2D.\r\n\ Postcondition\:\ arr2D\ is\ unchanged.\r\n
+comment3.params=arr1\ arr2
+comment3.target=boolean\ hasAllValues(int[],\ int[])
+comment3.text=\ Returns\ true\ if\ and\ only\ if\ every\ value\ in\ arr1\ appears\ in\ arr2.\r\n\ Precondition\:\ arr1\ and\ arr2\ have\ the\ same\ length.\r\n\ Postcondition\:\ arr1\ and\ arr2\ are\ unchanged.\r\n
+comment4.params=arr
+comment4.target=boolean\ containsDuplicates(int[])
+comment4.text=\ Returns\ true\ if\ arr\ contains\ any\ duplicate\ values;\r\n\ \ \ \ \ \ \ \ \ \ false\ otherwise.\r\n
+comment5.params=square
+comment5.target=boolean\ isLatin(int[][])
+comment5.text=\ Returns\ true\ if\ square\ is\ a\ Latin\ square\ as\ described\ in\ part\ (b);\r\n\ \ \ \ \ \ \ \ \ \ false\ otherwise.\r\n\ Precondition\:\ square\ has\ an\ equal\ number\ of\ rows\ and\ columns.\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ square\ has\ at\ least\ one\ row.\r\n
+numComments=6

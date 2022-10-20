@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Character
+comment1.params=name\ type\ money\ dialogue
+comment1.target=Character(java.lang.String,\ java.lang.String,\ int,\ java.lang.String[])
+comment2.params=
+comment2.target=void\ speak()
+numComments=3

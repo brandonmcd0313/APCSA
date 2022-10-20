@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 2db0f3819ee9eb947b12d89894a098e3
+timeCreated: 1652449894
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Sanborn Script
+  fontNames:
+  - Sanborn Script
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

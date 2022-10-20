@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Notes_1_5_22
+comment1.params=args
+comment1.target=void\ Main(java.lang.String[])
+comment2.params=s
+comment2.target=void\ ChangeThis(java.lang.String)
+comment3.params=arr
+comment3.target=void\ ChangeThat(java.lang.String[])
+comment4.params=a\ b
+comment4.target=boolean\ MoreThanTen(int,\ int)
+numComments=5
